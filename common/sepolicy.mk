@@ -4,10 +4,10 @@
 #
 
 BOARD_PLAT_PUBLIC_SEPOLICY_DIR += \
-    device/gzosp/sepolicy/common/public
+    device/xperia/sepolicy/common/public
 
 BOARD_PLAT_PRIVATE_SEPOLICY_DIR += \
-    device/gzosp/sepolicy/common/private
+    device/xperia/sepolicy/common/private
 
 BOARD_SEPOLICY_DIRS += \
-    device/gzosp/sepolicy/common/vendor
+    device/xperia/sepolicy/common/vendor

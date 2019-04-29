@@ -4,8 +4,8 @@
 #
 
 BOARD_PLAT_PRIVATE_SEPOLICY_DIR += \
-    device/gzosp/sepolicy/qcom/private
+    device/xperia/sepolicy/qcom/private
 
 BOARD_SEPOLICY_DIRS += \
-    device/gzosp/sepolicy/qcom/common \
-    device/gzosp/sepolicy/qcom/$(TARGET_BOARD_PLATFORM)
+    device/xperia/sepolicy/qcom/common \
+    device/xperia/sepolicy/qcom/$(TARGET_BOARD_PLATFORM)
